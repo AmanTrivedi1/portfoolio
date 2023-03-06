@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Header.css";
 import About from "../about/About";
-import { Link } from "react-router-dom";
+
 import { BsCodeSlash } from "react-icons/bs";
 import { HiMenuAlt3 } from "react-icons/hi";
 import { AiOutlineMan, AiOutlineCloseCircle } from "react-icons/ai";

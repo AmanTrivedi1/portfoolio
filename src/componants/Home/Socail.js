@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+
 import { BsInstagram, BsGithub, BsLinkedin } from "react-icons/bs";
 const Socail = () => {
   return (
